@@ -11,6 +11,10 @@ as already mentioned in the bank-end repository to avoid `MIMT` attacks
 This repo/code is not required within the test specifications, but implemented to make the flow being easier to the
 tester.
 
+
+**NOTE** : this code does not handle any case like errors or any kind of production like stuff, it is just example how to use
+the API.
+
 in order to run this repo, just clone it and run
 
 ```
